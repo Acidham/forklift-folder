@@ -1,2 +1,2 @@
-# forklift-folder
-Open Folder from Alfred in Forfklift
+# ForkLift Folder
+Open Folder from Alfred in Forklift
