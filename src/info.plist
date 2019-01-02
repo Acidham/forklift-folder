@@ -99,6 +99,6 @@ open -a ForkLift "$query"</string>
 	<key>version</key>
 	<string>0.1</string>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/Acidham/forklift-folder</string>
 </dict>
 </plist>
