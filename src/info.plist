@@ -40,6 +40,7 @@
 				<key>filetypes</key>
 				<array>
 					<string>public.folder</string>
+					<string>public.symlink</string>
 				</array>
 				<key>name</key>
 				<string>Open with ForkLift</string>
